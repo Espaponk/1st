@@ -1,3 +1,2 @@
 # 1st
-An experiment 
-:car :sun
+An experiment
